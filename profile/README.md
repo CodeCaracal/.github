@@ -165,13 +165,15 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=CodeCaracal&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d14&title_color=FF6B35&icon_color=FF6B35&text_color=ffffff&count_private=true"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeCaracal&theme=radical"/>
 &nbsp;
 <img width="48%" src="https://streak-stats.demolab.com/?user=CodeCaracal&theme=radical&hide_border=true&background=0d0d14&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=ffffff"/>
 
 <br/><br/>
 
-<img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCaracal&layout=compact&theme=radical&hide_border=true&bg_color=0d0d14&title_color=FF6B35&text_color=ffffff&langs_count=10"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeCaracal&theme=radical"/>
+&nbsp;
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodeCaracal&theme=radical&utcOffset=5"/>
 
 </div>
 
