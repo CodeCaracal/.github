@@ -1,10 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=CODECARACAL&fontSize=66&color=0:0d0d14,50:1a0a2e,100:0d1628&fontColor=FF6B35&stroke=FF6B35&strokeWidth=1.5&animation=fadeIn&desc=IoT%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Cloud%20Engineering&descSize=17&descAlignY=80&descColor=ccccee&section=header&fontFamily=Orbitron"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0d0d14,50:1a0a2e,100:0d1628&section=header&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=3500&pause=2500&color=FF6B35&center=true&vCenter=true&repeat=true&width=700&height=80&lines=CODECARACAL" alt="CODECARACAL"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=2000&pause=1500&color=ccccee&center=true&vCenter=true&repeat=true&width=520&height=28&lines=IoT+%E2%80%A2+Full-Stack+%E2%80%A2+Cloud+Engineering" alt="subtitle"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/CodeCaracal/.github/main/profile/logo.png" width="120" height="120" style="border-radius:50%;border:3px solid #FF6B35;" alt="CodeCaracal"/>
+<img src="https://raw.githubusercontent.com/CodeCaracal/.github/main/profile/logo-animated.svg" width="160" height="160" alt="CodeCaracal"/>
 
 <br/><br/>
 
@@ -187,11 +191,19 @@
 
 ---
 
-## 📈 Activity Graph
+## 📊 Organization Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CodeCaracal&theme=react-dark&hide_border=true&bg_color=0d0d14&color=FF6B35&line=FF6B35&point=ffffff&area=true&area_color=FF6B35"/>
+![](https://img.shields.io/badge/Dart%20%2F%20Flutter-40%25-02569B?style=flat-square&logo=dart&logoColor=white&labelColor=0d0d14)
+![](https://img.shields.io/badge/JavaScript%20%2F%20TS-25%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d0d14)
+![](https://img.shields.io/badge/C%20%2F%20C%2B%2B-20%25-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0d0d14)
+![](https://img.shields.io/badge/Python-10%25-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d0d14)
+![](https://img.shields.io/badge/Other-5%25-888888?style=flat-square&labelColor=0d0d14)
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeCaracal&theme=tokyo-night&bg_color=0d0d14&color=FF6B35&line=FF6B35&point=ffffff&area=true&hide_border=true)](https://github.com/CodeCaracal)
 
 </div>
 
