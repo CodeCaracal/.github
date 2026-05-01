@@ -186,6 +186,126 @@
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 TTN LoRaWAN Custom Dashboard
+![](https://img.shields.io/badge/%E2%97%8F%20LIVE-Production-22c55e?style=flat-square&labelColor=0d0d14)
+
+`TTN v3` `LoRaWAN` `Next.js` `InfluxDB` `MQTT`
+
+- 🗼 The Things Network v3 stack integration
+- 📶 Multi-gateway network coverage map
+- 📊 Real-time uplink / downlink visualizer
+- 🔑 Per-device API key & payload decoder
+- 📤 Webhook relay to custom REST endpoints
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Smart Energy Management
+![](https://img.shields.io/badge/%E2%97%8F%20LIVE-Deployed-22c55e?style=flat-square&labelColor=0d0d14)
+
+`ESP32` `CT Sensors` `React` `TimescaleDB`
+
+- 🔌 Per-circuit real-time power monitoring
+- 📉 Peak demand shaving algorithms
+- 💡 Automated load shedding & scheduling
+- 🧾 Tariff-aware billing reports
+- 🏭 Deployed across 12 industrial sites
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌡️ Cold Chain Monitoring
+![](https://img.shields.io/badge/%E2%97%8F%20LIVE-Production-22c55e?style=flat-square&labelColor=0d0d14)
+
+`BLE` `NB-IoT` `Flutter` `PostgreSQL` `Node.js`
+
+- 🧊 −40 °C to +85 °C sensor range
+- 🚨 Instant SMS / push breach alerts
+- 📍 Asset location via BLE mesh
+- 📋 FDA 21 CFR Part 11 audit logs
+- ✈️ Pharmaceutical & food logistics
+
+</td>
+<td width="50%" valign="top">
+
+### 🌿 Environmental Monitor Network
+![](https://img.shields.io/badge/%E2%97%90%20BETA-Testing-f59e0b?style=flat-square&labelColor=0d0d14)
+
+`ESP32` `LoRa` `Grafana` `InfluxDB` `Python`
+
+- 💨 PM2.5, CO₂, NO₂, O₃, VOC sensing
+- 🗺️ Live GIS pollution heat-map
+- 🤖 ML anomaly detection & forecasting
+- 🏙️ Smart-city reporting API
+- 🌐 Open data portal for researchers
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏫 Smart Campus Automation
+![](https://img.shields.io/badge/%E2%97%8C%20DEV-Building-6366f1?style=flat-square&labelColor=0d0d14)
+
+`ESP32` `Zigbee` `React` `Node.js` `MQTT`
+
+- 💡 Occupancy-based lighting & HVAC
+- 🔐 NFC / QR access control system
+- 📅 Class-schedule-aware automation
+- 🔔 PA & emergency broadcast integration
+- 📱 Student & staff mobile app
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 Remote Asset Monitoring
+![](https://img.shields.io/badge/%E2%97%8F%20LIVE-Deployed-3b82f6?style=flat-square&labelColor=0d0d14)
+
+`ESP32` `4G LTE` `NB-IoT` `Next.js` `AWS`
+
+- 📡 Always-on dual-radio fallback
+- 🔋 Solar + battery powered enclosures
+- 🛠️ Vibration & temperature diagnostics
+- 📊 MTBF prediction dashboard
+- 🌍 Deployed in 6 countries off-grid
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🅿️ Smart Parking System
+![](https://img.shields.io/badge/%E2%97%8F%20LIVE-Production-22c55e?style=flat-square&labelColor=0d0d14)
+
+`Ultrasonic` `ESP32` `React` `MongoDB` `MQTT`
+
+- 🚦 Per-bay occupancy in real time
+- 📱 Mobile slot reservation & payment
+- 🗺️ Interactive parking map overlay
+- 📊 Revenue & utilisation analytics
+- 🏢 500+ bay deployment, 3 sites
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 Healthcare IoT Gateway
+![](https://img.shields.io/badge/%E2%97%8C%20DEV-Building-6366f1?style=flat-square&labelColor=0d0d14)
+
+`BLE` `ESP32` `Flutter` `Node.js` `HL7 FHIR`
+
+- ❤️ Continuous SpO₂, HR & BP capture
+- 🔔 Threshold alerting to nursing staff
+- 🏥 HL7 FHIR EHR integration
+- 🔒 HIPAA-compliant encrypted transport
+- 📱 Patient self-monitoring mobile app
+
+</td>
+</tr>
 </table>
 </div>
 
@@ -195,6 +315,8 @@
 
 <div align="center">
 
+**— Language Breakdown —**
+
 ![](https://img.shields.io/badge/Dart%20%2F%20Flutter-40%25-02569B?style=flat-square&logo=dart&logoColor=white&labelColor=0d0d14)
 ![](https://img.shields.io/badge/JavaScript%20%2F%20TS-25%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d0d14)
 ![](https://img.shields.io/badge/C%20%2F%20C%2B%2B-20%25-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0d0d14)
@@ -203,7 +325,27 @@
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeCaracal&theme=tokyo-night&bg_color=0d0d14&color=FF6B35&line=FF6B35&point=ffffff&area=true&hide_border=true)](https://github.com/CodeCaracal)
+**— Commit Activity — Last 12 Months —**
+
+<img width="100%" src="https://raw.githubusercontent.com/CodeCaracal/.github/main/profile/activity-graph.svg" alt="Contribution Activity"/>
+
+<br/>
+
+**— Monthly Velocity —**
+
+![](https://img.shields.io/badge/Jan-███████░░░-FF6B35?style=flat-square&labelColor=0d0d14)
+![](https://img.shields.io/badge/Feb-█████████░-FF6B35?style=flat-square&labelColor=0d0d14)
+![](https://img.shields.io/badge/Mar-██████████-FF6B35?style=flat-square&labelColor=0d0d14)
+![](https://img.shields.io/badge/Apr-████████░░-FF6B35?style=flat-square&labelColor=0d0d14)
+![](https://img.shields.io/badge/May-█████░░░░░-FF6B35?style=flat-square&labelColor=0d0d14)
+![](https://img.shields.io/badge/Jun-███████░░░-FF6B35?style=flat-square&labelColor=0d0d14)
+
+![](https://img.shields.io/badge/Jul-██████████-FF6B35?style=flat-square&labelColor=0d0d14)
+![](https://img.shields.io/badge/Aug-█████████░-FF6B35?style=flat-square&labelColor=0d0d14)
+![](https://img.shields.io/badge/Sep-████████░░-FF6B35?style=flat-square&labelColor=0d0d14)
+![](https://img.shields.io/badge/Oct-██████░░░░-FF6B35?style=flat-square&labelColor=0d0d14)
+![](https://img.shields.io/badge/Nov-█████████░-FF6B35?style=flat-square&labelColor=0d0d14)
+![](https://img.shields.io/badge/Dec-████████░░-FF6B35?style=flat-square&labelColor=0d0d14)
 
 </div>
 
