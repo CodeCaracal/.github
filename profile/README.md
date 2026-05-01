@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=CodeCaracal&fontSize=72&color=0:0d0d14,50:1a0a2e,100:0d1628&fontColor=FF6B35&stroke=FF6B35&strokeWidth=1.5&animation=fadeIn&desc=IoT%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Cloud%20Engineering&descSize=16&descAlignY=78&descColor=ccccee&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=CODECARACAL&fontSize=66&color=0:0d0d14,50:1a0a2e,100:0d1628&fontColor=FF6B35&stroke=FF6B35&strokeWidth=1.5&animation=fadeIn&desc=IoT%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Cloud%20Engineering&descSize=17&descAlignY=80&descColor=ccccee&section=header&fontFamily=Orbitron"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/CodeCaracal/.github/main/profile/logo.png" width="120" height="120" style="border-radius:50%;border:3px solid #FF6B35;margin-top:-10px;" alt="CodeCaracal"/>
+<img src="https://raw.githubusercontent.com/CodeCaracal/.github/main/profile/logo.png" width="120" height="120" style="border-radius:50%;border:3px solid #FF6B35;" alt="CodeCaracal"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=900&color=FF6B35&center=true&vCenter=true&repeat=true&width=680&height=36&lines=Building+the+Nervous+System+of+IoT+%F0%9F%94%97;ESP32+%E2%86%92+MQTT+%E2%86%92+Cloud+%E2%86%92+Flutter+App+%F0%9F%9A%80;50%2B+Projects+%C2%B7+15%2B+Countries+%C2%B7+99.9%25+Uptime;Open+for+Collaboration+%E2%86%92+Let%27s+Build!;Firmware+to+Full-Stack%2C+End-to-End." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=800&color=FF6B35&center=true&vCenter=true&repeat=true&width=700&height=36&lines=Building+the+Nervous+System+of+IoT+%F0%9F%94%97;ESP32+%E2%86%92+MQTT+%E2%86%92+Cloud+%E2%86%92+Flutter+App+%F0%9F%9A%80;50%2B+Projects+%C2%B7+15%2B+Countries+%C2%B7+99.9%25+Uptime;Open+for+Collaboration+%E2%86%92+Let%27s+Build!;Firmware+to+Full-Stack%2C+End-to-End.;Precision+Engineering+%E2%80%94+Human+Simplicity." alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -31,21 +31,47 @@
 
 ---
 
-## ⚡ End-to-End IoT Pipeline
-
 <div align="center">
 
-```
-┌──────────────┐     ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
-│  🔩  DEVICE  │────▶│  ☁️   CLOUD  │────▶│  ⚡  BACKEND  │────▶│  📱  CLIENT  │
-│              │     │              │     │              │     │              │
-│  ESP32/8266  │     │ AWS IoT Core │     │  Node.js     │     │  Flutter     │
-│  Sensors     │     │ MQTT Broker  │     │  WebSocket   │     │  React       │
-│  C/C++ FW    │     │ OTA Updates  │     │  InfluxDB    │     │  Next.js     │
-└──────────────┘     └──────────────┘     └──────────────┘     └──────────────┘
-        ▲                                                               │
-        └─────────────────── Real-Time Feedback Loop ◀─────────────────┘
-```
+## ⚡ End-to-End IoT Pipeline
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="180">
+<b>🔩 DEVICE</b><br/><br/>
+<code>ESP32 / 8266</code><br/>
+<code>Sensors</code><br/>
+<code>C / C++ FW</code>
+</td>
+<td align="center"><b>──▶</b></td>
+<td align="center" width="180">
+<b>☁️ CLOUD</b><br/><br/>
+<code>AWS IoT Core</code><br/>
+<code>MQTT Broker</code><br/>
+<code>OTA Updates</code>
+</td>
+<td align="center"><b>──▶</b></td>
+<td align="center" width="180">
+<b>⚡ BACKEND</b><br/><br/>
+<code>Node.js</code><br/>
+<code>WebSocket</code><br/>
+<code>InfluxDB</code>
+</td>
+<td align="center"><b>──▶</b></td>
+<td align="center" width="180">
+<b>📱 CLIENT</b><br/><br/>
+<code>Flutter</code><br/>
+<code>React</code><br/>
+<code>Next.js</code>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=4000&pause=2000&color=888888&center=true&vCenter=true&repeat=true&width=460&height=24&lines=%E2%86%91+Real-Time+Feedback+Loop+flows+back+to+Device+%E2%86%93" alt="loop"/>
 
 </div>
 
@@ -161,19 +187,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Activity Graph
 
 <div align="center">
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeCaracal&theme=radical"/>
-&nbsp;
-<img width="48%" src="https://streak-stats.demolab.com/?user=CodeCaracal&theme=radical&hide_border=true&background=0d0d14&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=ffffff"/>
-
-<br/><br/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeCaracal&theme=radical"/>
-&nbsp;
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodeCaracal&theme=radical&utcOffset=5"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CodeCaracal&theme=react-dark&hide_border=true&bg_color=0d0d14&color=FF6B35&line=FF6B35&point=ffffff&area=true&area_color=FF6B35"/>
 
 </div>
 
@@ -240,5 +258,13 @@ const CodeCaracal = {
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d14,50:1a0a2e,100:FF6B35&height=110&section=footer&text=Building+the+Future%2C+One+Device+at+a+Time&fontSize=15&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=3000&color=FF6B35&center=true&vCenter=true&repeat=true&width=500&height=60&lines=CODECARACAL" alt="CodeCaracal"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=2500&color=aaaacc&center=true&vCenter=true&repeat=true&width=520&height=30&lines=We+Build+%C2%B7+We+Deliver+%C2%B7+We+Innovate" alt="tagline"/>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d14,50:1a0a2e,100:FF6B35&height=100&section=footer&animation=twinkling"/>
+
 </div>
